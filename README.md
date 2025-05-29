@@ -6,7 +6,7 @@ Bem vindos, byronianos! Nesse repositório, você poderá encontrar os códigos 
 
 # Gerais
 
-- [Link da playlist no YouTube](#)
+- [Link da playlist no YouTube](https://www.youtube.com/playlist?list=PLc77ERAwzB_3s0ZU2XSJO8tqweRbndMaI)
 - [Documentação oficial do Tailwind](https://tailwindcss.com/)
 
 # Projeto Final
